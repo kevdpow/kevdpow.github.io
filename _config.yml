@@ -1,0 +1,21 @@
+# Site settings
+title: Petabyte Me
+header-img: img/home-bg.png
+email: kevdpow@gmail.com
+copyright_name: kevdpow
+description: > # this means to ignore newlines until "baseurl:"
+  A Librarian Learns to Code
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: kevdpow
+github_username:  kevdpow
+learn_profile: kevdpow
+email_username: kevdpow@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
