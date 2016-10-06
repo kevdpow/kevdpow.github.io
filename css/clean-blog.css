@@ -7,7 +7,7 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
-  color: #404040;
+  color: #1F1E1C;
 }
 p {
   line-height: 1.5;
@@ -30,7 +30,7 @@ h6.powered_by {
   margin-top: 0px;
 }
 a {
-  color: #404040;
+  color: #1F1E1C;
 }
 a:hover,
 a:focus {
@@ -41,7 +41,7 @@ a img:focus {
   cursor: zoom-in;
 }
 blockquote {
-  color: #808080;
+  color: #1F1E1C;
   font-style: italic;
 }
 hr.small {
@@ -116,14 +116,14 @@ hr.small {
     transition: transform 0.3s;
   }
   .navbar-custom.is-fixed .navbar-brand {
-    color: #404040;
+    color: #1F1E1C;
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
     color: #7A7163;
   }
   .navbar-custom.is-fixed .nav li a {
-    color: #404040;
+    color: #1F1E1C;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
@@ -218,7 +218,7 @@ hr.small {
   }
 }
 .post-preview > a {
-  color: #404040;
+  color: #1F1E1C;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
@@ -236,14 +236,14 @@ hr.small {
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
-  color: #808080;
+  color: #1F1E1C;
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
-  color: #404040;
+  color: #1F1E1C;
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
