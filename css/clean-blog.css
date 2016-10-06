@@ -375,7 +375,7 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #0085a1;
+  background-color: #7A7163;
   border: 1px solid #0085a1;
 }
 .pager .disabled > a,
@@ -389,12 +389,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #7A7163;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #7A7163;
 }
 img::selection {
   color: white;
