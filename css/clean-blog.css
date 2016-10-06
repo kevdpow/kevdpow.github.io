@@ -199,7 +199,7 @@ hr.small {
   font-weight: 600;
 }
 .intro-header .post-heading .meta {
-  text-shadow: 2px 2px 8px #FF0000;
+  text-shadow: 2px 2px 4px #000;
   font-family: 'Lora', 'Times New Roman', serif;
   font-style: italic;
   font-weight: 300;
