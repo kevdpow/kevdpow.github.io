@@ -34,7 +34,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #514A3F;
+  color: #7A7163;
 }
 a img:hover,
 a img:focus {
@@ -223,7 +223,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085a1;
+  color: #7A7163;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -247,7 +247,7 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #0085a1;
+  color: #7A7163;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
