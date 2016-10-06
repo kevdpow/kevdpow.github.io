@@ -327,7 +327,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #0085a1;
+  color: #7A7163;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -347,8 +347,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #7A7163;
+  border: 1px solid #7A7163;
   color: white;
 }
 .pager {
@@ -376,7 +376,7 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:focus {
   color: white;
   background-color: #7A7163;
-  border: 1px solid #0085a1;
+  border: 1px solid #7A7163;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
