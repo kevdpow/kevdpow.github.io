@@ -24,6 +24,7 @@ Remember when I said librarians love conferences? There's a reason for that. We 
 * [http://www.itforarchivists.com/siegfried](http://www.itforarchivists.com/siegfried)
 * [https://github.com/NCSU-Libraries/lentil](https://github.com/NCSU-Libraries/lentil)
 
+
 ## **Libraries and archives are (rarely) high-stress workplaces.**
 
 Look, do we get stressed? Of course. Do projects pile up? Of course. But is the stressor a bottom line, the ROI, or massive layoffs? Rarely. Libraries encourage exploration and value innovation, which can take time. Librarians, particularly those who code, get to work with scholars to build tools that further scholarship. They help build online exhibits for important/interesting collections. They make it easier for students to request off-site books. They build an infrastructure for the discovery of resources.
