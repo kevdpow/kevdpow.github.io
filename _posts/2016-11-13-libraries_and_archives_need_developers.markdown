@@ -27,7 +27,7 @@ Remember when I said librarians love conferences? There's a reason for that. We 
 
 ## **Libraries and archives are (rarely) high-stress workplaces.**
 
-Look, do we get stressed? Of course. Do projects pile up? Of course. But is the stressor a bottom line, the ROI, or massive layoffs? Rarely. Libraries encourage exploration and value innovation, which can take time. Librarians, particularly those who code, get to work with scholars to build tools that further scholarship. They help build online exhibits for important/interesting collections. They make it easier for students to request off-site books. They build an infrastructure for the discovery of resources.
+Look, do we get stressed? Of course. Do projects pile up? Of course. But is the stressor a bottom line, the ROI, or massive layoffs? Rarely. Libraries encourage exploration and value innovation, which can take time. Librarians, particularly those who code, collaborate with scholars to build tools that enhance their scholarship. They build online exhibits for important/interesting collections. They make it easier for students to request off-site books. They build infrastructures for the discovery of resources.
 
 ## **Don't I need a Masters Degree, though?**
 
