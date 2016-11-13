@@ -46,4 +46,4 @@ A good list to keep your eye on...
 
 ## **Final thoughts...**
 
-Okay, I get it, you probably won't make as much money in a library or archive. But if you, like me, were shaken by last week's election results, consider contributing to this collaborative filed with your newfound coding skills. We need you. 
+Okay, I get it, you probably won't make as much money in a library or archive. But if you, like me, were shaken by last week's election results, consider contributing to this collaborative field with your newfound coding skills. We need you. 
