@@ -29,6 +29,12 @@ h6.powered_by {
   font-size: 13px;
   margin-top: 0px;
 }
+
+h1,
+h2 {
+  font-size: 25px;
+}
+
 a {
   color: #1F1E1C;
 }
