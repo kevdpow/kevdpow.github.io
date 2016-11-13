@@ -9,13 +9,13 @@ It's been over a month since I wrote a blog. I'm sorry. I've been dipping in and
 
 Something I heard over and over at these conferences is that ***archives and libraries need developers***. So today I'm going to make an impassioned plea for some of you who are eyeing high-paying corporate jobs to consider working in this field.
 
-**Fight misinformation by protecting information. **
+**Fight misinformation by protecting information.**
 
 History-keeping is needed to bolster the search for truth and meaning. It is needed to combat injustice. Why do you think the brand new [National Museum of African American History & Culture](https://nmaahc.si.edu/) is SUCH a big deal? If you're a white American, think about how much you learned about African American history in school aside from slavery and the Civil Rights era? Before, between, and after those touchstones is a rich history that informs the very injustice we are talking about today. Without knowing the past and the preseving the present, how can we fight ignorance and intolerance? Activist archivists exist, and they are wonderful people. Take a look at [DocNow](http://www.docnow.io/), which is working to provide a user-friendly for documenting the social justice movements online. 
 
 Last week I was at the Digital Library Federation forum and the National Digital Stewardship Alliace meeting in Milwaukee, Wisconsin. They were convened back-to-back and included powerful keynotes by [Stacy Williams](https://youtu.be/lpFzaO0vEBg?t=27m20s) and [Bergis Jules](https://medium.com/on-archivy/confronting-our-failure-of-care-around-the-legacies-of-marginalized-people-in-the-archives-dc4180397280#.mgi9tdam5). Even if you have no familiarity with the library and archives world, I highly suggest taking a look at these two calls to action. You'll see that our field is not perfect, but there are people fighting to make it better. Saving and delivering history can be a radical act of care, and the erasure of history is an act of violence. 
 
-**Librarians and archivists love collaboration. **
+**Librarians and archivists love collaboration.**
 
 Remember when I said librarians love conferences? There's a reason for that. We celebrate and seek out the success of others. We share our tools and our workflows. We encourage each other through administrative and project management barriers. We help each other get jobs. We work across insitutional boundaries. Specifically when it comes to coding, we work together to build tools anyone can use. Open source is (usually) the name of the game. Some neat tools developed by/for librarians and archivists:
 
