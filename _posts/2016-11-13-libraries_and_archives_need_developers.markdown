@@ -19,9 +19,7 @@ Last week I was at the Digital Library Federation forum and the National Digital
 
 Remember when I said librarians love conferences? There's a reason for that. We celebrate and seek out the success of others. We share our tools and our workflows. We encourage each other through administrative and project management barriers. We help each other get jobs. We work across insitutional boundaries. Specifically when it comes to coding, we work together to build tools anyone can use. Open source is (usually) the name of the game. Some neat tools developed by/for librarians and archivists:
 
-[https://github.com/timothyryanwalsh/brunnhilde
-](http://https://github.com/timothyryanwalsh/brunnhilde
-)
+[https://github.com/timothyryanwalsh/brunnhilde](http://https://github.com/timothyryanwalsh/brunnhilde)
 [https://github.com/LibraryOfCongress](https://github.com/LibraryOfCongress)
 [http://www.itforarchivists.com/siegfried](http://www.itforarchivists.com/siegfried)
 [https://github.com/NCSU-Libraries/lentil](https://github.com/NCSU-Libraries/lentil)
@@ -36,8 +34,8 @@ Not necessarily. I work on a floor filled with developers, not all of whom have 
 
 [http://databrary.org/about/jobs/front-end.html](http://databrary.org/about/jobs/front-end.html)
 [https://databrary.org/about/jobs/back-end.html](https://databrary.org/about/jobs/back-end.html)
-[https://web.archive.org/web/20161031200840/http://jobs.code4lib.org/job/27298/](https://web.archive.org/web/20161031200840/http://jobs.code4lib.org/job/27298/)
 [http://libraries.mit.edu/wp-content/uploads/2013/02/SVAC-Web-Developer-2016-rev.pdf](http://libraries.mit.edu/wp-content/uploads/2013/02/SVAC-Web-Developer-2016-rev.pdf)
+[https://web.archive.org/web/20161031200840/http://jobs.code4lib.org/job/27298/](https://web.archive.org/web/20161031200840/http://jobs.code4lib.org/job/27298/)
 
 (There are many archivists clamoring for that last one to be filled.)
 
