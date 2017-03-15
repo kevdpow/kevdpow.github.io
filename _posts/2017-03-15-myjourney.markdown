@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "\#MYJOURNEY"
-date:   2017-03-15 19:31:45 +0000
+title:  "hashtag MYJOURNEY"
+date:   2017-03-15 15:31:46 -0400
 ---
 
 
