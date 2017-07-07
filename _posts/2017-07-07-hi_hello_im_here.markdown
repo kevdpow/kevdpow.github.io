@@ -18,8 +18,10 @@ So here I am, back at it. I've picked OO back up, and I really like it actually!
 On the lab I just finished, I was instructed to create a unique array from a list of email addresses that were separated by both commas and spaces. I came up with this long method chain to do it....
 
 `def parse
-    emails.split(/[,\s]/).reject {|e| e.empty?}.flatten.uniq
-  end`
+
+		emails.split(/[,\s]/).reject {|e| e.empty?}.flatten.uniq
+
+end`
 	
 In order: 
 * I split the array by commas and spaces using regex
