@@ -9,9 +9,9 @@ If you've looked at my Flatiron progress lately, you'll see a gap between May 14
 
 1. I officiated two weddings in tropical locations.
 2. I made significant progress on a HUGE work project.
-3. I made that quinoa soup again
-4. My parents visited and met my boyfriend for the first time (!!!)
-5. I interviewed for but did not get a junior developer position at a Library!
+3. I made that quinoa soup again.
+4. My parents visited and met my boyfriend for the first time (!!!).
+5. I interviewed for but did not get a junior developer position at a Library.
 
 So here I am, back at it. I've picked OO back up, and I really like it actually! I'm trying my hardest not to peek at the solution branches for tips, but sometimes it helps me know if I'm on the right track. 
 
